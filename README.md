@@ -13,16 +13,6 @@
 - **GitHub**: [GitHub Profile](https://github.com/AchourMaryem)
 - **Portfolio**: [Portfolio Website](https://mariem-achour.vercel.app/)
 
-## About Me
-
-A passionate and ambitious software engineering student with a focus on web development and a flair for creating intuitive and user-friendly applications.
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achourmaryem&show_icons=true&locale=en&layout=compact" alt="achourmaryem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achourmaryem&show_icons=true&locale=en" alt="achourmaryem" /></p>
-
-
 
 ## Education
 
