@@ -5,7 +5,7 @@
 
  
 - **Name**: Achour Mariem
-- **Age**: 26
+- **Age**: 28
 - **Address**: Sousse, Tunisia
 - **Phone**: +216 55 526 836
 - **Email**: mariemachour70@gmail.com
@@ -25,10 +25,9 @@
 
 ### Programming Languages
 
-- Javascript
-- Java
-- Python
 - PHP
+- Javascript
+- Python
 - TypeScript
 
 ### Frameworks & Libraries
